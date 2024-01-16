@@ -16,7 +16,7 @@ class YouTubeDownloaderGUI(QWidget):
     def init_ui(self):
         # Set up the basic GUI elements
         self.setWindowTitle("YouTube Downloader")
-        self.setWindowIcon(QIcon('screenshots/1384060.png'))  # Provide the path to your icon file
+        self.setWindowIcon(QIcon('screenshots/logo.png'))  # Provide the path to your icon file
 
         # Create labels, input fields, buttons, and layout
         self.url_label = QLabel("Enter YouTube URL:")
