@@ -40,7 +40,6 @@ pip install PyQt5
 ## Application Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.png)
-*Application Main Window*
 
 ## User Guide
 
